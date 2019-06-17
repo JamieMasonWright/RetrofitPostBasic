@@ -1,0 +1,7 @@
+<resources>
+	<string name="app_name">Retrofit Post Basic</string>
+	<string name="title_enter_post">Enter Post</string>
+	<string name="hint_title">title</string>
+	<string name="hint_body">enter a message</string>
+	<string name="action_submit">SUBMIT</string>
+</resources>
